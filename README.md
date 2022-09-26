@@ -9,4 +9,7 @@ Earlier:
 After exeecuting the code:
 
 ![image](https://user-images.githubusercontent.com/50367790/192187247-ce666590-285a-4b00-86b7-6c0038f03c41.png)
+
+The contents inside organized_files are stored in sub folders as:
+
 ![image](https://user-images.githubusercontent.com/50367790/192187285-74beac31-3476-40f4-96e6-3104c6f534b1.png)
